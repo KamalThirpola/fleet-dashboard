@@ -1,3 +1,4 @@
+"id":"fix2"
 {
   "name": "fleet-dashboard",
   "version": "0.0.0",
@@ -8,11 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "recharts": "^2.12.7"
+    "react": "...",
+    "react-dom": "...",
+    "recharts": "..."
   },
   "devDependencies": {
     "vite": "^5.0.0"
+  },
+  "engines": {
+    "node": "18"
   }
 }
